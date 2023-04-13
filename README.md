@@ -7,7 +7,7 @@ My interests include UI/UX Design, Frontend Development, and SAP Production Plan
 - 👯 I’m looking to collaborate on Frontend Projects
 - 🤔 I’m looking for help with Fullstack Development
 - 💬 Ask me about "Let me ask the questions haha"
-- 📫 How to reach me: 
+- 📫 How to reach me: https://www.linkedin.com/in/g-aditi-64b75a171/ 
 - ⚡ Fun fact: I hated coding in college but now finding my way back to it
 
 
