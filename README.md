@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am Aditi, currently working as an SAP Consultant at Hitachi Vantara.
+
 
 <!--
 **aditi2310rao/aditi2310rao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
