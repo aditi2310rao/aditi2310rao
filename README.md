@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am Aditi, currently working as an SAP Consultant at Hitachi Vantara.
+I am Aditi, currently working as an SAP Consultant at Hitachi Vantara with a Bachelor's in Computer Science.
+My interests include UI/UX Design, Frontend Development, and SAP Production Planning and Security Consulting.
 
 
 <!--
